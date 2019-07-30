@@ -1,0 +1,18 @@
+{
+  "name": "chatbot",
+  "version": "1.0.0",
+  "description": "React Bot for webpage",
+  "main": "index.js",
+  "engines": {
+    "node": "11.12.0",
+    "npm": "6.7.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Marcus Lopes",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
